@@ -213,6 +213,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Model Context Protocol
 
 - <img src="https://img.shields.io/github/stars/mindsdb/mindsdb?style=social" height="17" align="texttop"/> [mindsdb](https://github.com/mindsdb/mindsdb) - federated query engine for AI - the only MCP Server you'll ever need 
+- <img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" height="17" align="texttop"/> [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - <img src="https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social" height="17" align="texttop"/> [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - <img src="https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=social" height="17" align="texttop"/> [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - a MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
