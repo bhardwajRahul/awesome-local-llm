@@ -178,6 +178,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) - a unified text-to-image generation and image editing model in the Qwen family
 - [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl-68d2a7c1b8a8afce4ebd2dbe) - a collection of the most powerful vision-language models in the Qwen series to date
 - [GLM-Image](https://huggingface.co/zai-org/GLM-Image) - an image generation model
+- [Ming-Image-0.1-Design](https://huggingface.co/inclusionAI/Ming-Image-0.1-Design) - a 6B text-to-image model for UI, infographics, posters, and other text-rich visual designs
 - [Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision) - multimodal models from IBM built for visual document analysis and image understanding
 - [HunyuanImage](https://huggingface.co/collections/tencent/hunyuanimage) - a collection of image generation models from Tencent
 - [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent 
