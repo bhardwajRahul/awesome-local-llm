@@ -146,6 +146,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Ornith-1.5](https://huggingface.co/collections/ornith-ai/ornith-15) - a collection of open-source models for agentic tasks and coding
 - [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
 - [Step-3.7-Flash](https://huggingface.co/collections/stepfun-ai/step-37-flash) - Mixture-of-Experts vision-language model for developers who need to scale agentic workflows that combine perception, search, and reasoning
+- [Occamy-1.0](https://huggingface.co/Accio-Lab/occamy-1.0) - a compact agentic model purpose-built for real-world co-work
 - [MiniCPM5](https://huggingface.co/collections/openbmb/minicpm5) - a collection of SOTA on-device LLMs, small yet powerful
 
 [Back to Table of Contents](#table-of-contents)
