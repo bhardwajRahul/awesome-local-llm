@@ -110,6 +110,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/swe-serve?style=social" height="17" align="texttop"/> [swe-serve](https://github.com/NVIDIA/swe-serve) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -330,6 +331,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/charmbracelet/crush?style=social" height="17" align="texttop"/> [crush](https://github.com/charmbracelet/crush) - the glamourous AI coding agent for your favourite terminal
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17" align="texttop"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 - <img src="https://img.shields.io/github/stars/humanlayer/humanlayer?style=social" height="17" align="texttop"/> [humanlayer](https://github.com/humanlayer/humanlayer) - the best way to get AI coding agents to solve hard problems in complex codebases
+- <img src="https://img.shields.io/github/stars/openchamber/openchamber?style=social" height="17" align="texttop"/> [openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
 
